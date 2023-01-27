@@ -61,7 +61,7 @@ while (salir != "salir"){
     
     }
 
-    salir = prompt(' Si desea salir ingrese la palabres "salilr"');
+    salir = prompt(' Si desea salir ingrese la palabra "salilr"');
 
 }
 
